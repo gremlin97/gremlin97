@@ -1,5 +1,3 @@
-### Hello 👋
-
 <!--
 **gremlin97/gremlin97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,13 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Kunal Kasodekar - GitHub Profile
+# Kunal Kasodekar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kunalkas/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/gremlin97)
 
-## Contact Information
-- **Phone:** +1 (602) 862-8872
-- **Email:** kkasodek@asu.edu
-- **LinkedIn:** [linkedin.com/in/kunalkas/](https://linkedin.com/in/kunalkas/)
-- **GitHub:** [github.com/gremlin97](https://github.com/gremlin97)
+📞 +1 (602) 862-8872  
+📧 kkasodek@asu.edu
 
 ## Education
 - **Arizona State University, AZ**
@@ -59,9 +56,15 @@ Here are some ideas to get you started:
 ## Academic Projects
 - Worked on projects such as detecting and segmenting cones on the Mars surface, mitigating racial bias amplification in the COCO dataset, and analyzing Reddit Pushshift db using PostgreSQL efficiently.
 
-## Publications and Accomplishments
-- Presented and published various papers including "AI-based approach to enforce budget restrictions on Azure RG’s for large enterprises", "Solutions to Gig Economy using AI and Blockchain", "Intelligent Traffic Light Scheduling", and "Quantum Feature Maps for Binary Classification".
-- Hosted the Blockchain for Enterprises booth and took DMTS Masterclass on “Rendering Engines for generating Video and Image data for ML/DL problems” at Wipro Techtonic 2020 and 2022 respectively.
-
 ---
-This README file provides an overview of my educational background, technical skills, professional experience, projects, academic contributions, and publications. For more detailed information, feel free to explore the respective sections.
+
+🚀 **Looking for Collaborations?** Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kunalkas/) or follow me on [GitHub](https://github.com/gremlin97).
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/gremlin97)
+
+![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=gremlin97&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gremlin97&layout=compact)](https://github.com/gremlin97)
+
+## Model Architectures:
+![GitHub Card](https://github-readme-stats.vercel.app/api/pin/?username=gremlin97&repo=EVA-8)
