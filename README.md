@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/kunalkas/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/gremlin97)
 
-📞 +1 (602) 862-8872  
+📞 +1 (602) 862-8872 
+🌐 https://kunalkas.carrd.co/
 📧 kkasodek@asu.edu
 
 ## Education
